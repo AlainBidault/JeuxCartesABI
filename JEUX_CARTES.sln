@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JEUX_CARTES", "JEUX_CARTES.csproj", "{D814E93A-8367-462B-A5DF-E804D39D3B10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D814E93A-8367-462B-A5DF-E804D39D3B10}.Debug|x86.ActiveCfg = Debug|x86
+		{D814E93A-8367-462B-A5DF-E804D39D3B10}.Debug|x86.Build.0 = Debug|x86
+		{D814E93A-8367-462B-A5DF-E804D39D3B10}.Release|x86.ActiveCfg = Release|x86
+		{D814E93A-8367-462B-A5DF-E804D39D3B10}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C928CD-C6AE-4E11-83C3-8C405939C4EF}
+	EndGlobalSection
+EndGlobal
