@@ -11,7 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             
-            Console.WriteLine("bonjour tout le monde on the beach");
+            Console.WriteLine("bonjour tout le monde on the beach, de la playa");
+
             Console.ReadKey();
             
             MemoryDessin partie = new MemoryDessin(4);
